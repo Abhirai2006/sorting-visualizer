@@ -208,4 +208,4 @@ public/
 
 ## 👤 Built by
 
-[**Abhirai2006**](https://github.com/Abhirai2006)
+**Abhishek Rai A** [**(Abhirai2006)**](https://github.com/Abhirai2006)
